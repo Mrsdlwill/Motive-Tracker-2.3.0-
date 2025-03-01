@@ -1,0 +1,21 @@
+﻿   Qt/MSBuild: 3.3.1.1
+  Reading Qt configuration (D:/vsqt/Qt/6.5.3/msvc2019_64/bin/qmake)
+   Qt: 6.5.3
+  uic ceshi1218.ui
+  rcc ceshi1218.qrc
+  moc ceshi1218.h
+  moc Natnet.h
+  moc SaveDataThread.h
+   RCC: Warning: No resources in 'D:\0postgraduate\code\changping_code\ceshi1218\ceshi1218\ceshi1218.qrc'.
+  Natnet.cpp
+  SaveDataThread.cpp
+  ceshi1218.cpp
+  main.cpp
+D:\0postgraduate\code\changping_code\ceshi1218\ceshi1218\ringBuffer.h(52,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 main.cpp)
+D:\0postgraduate\code\changping_code\ceshi1218\ceshi1218\ringBuffer.h(52,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 ceshi1218.cpp)
+  qrc_ceshi1218.cpp
+  moc_ceshi1218.cpp
+  moc_Natnet.cpp
+  moc_SaveDataThread.cpp
+D:\0postgraduate\code\changping_code\ceshi1218\ceshi1218\ringBuffer.h(52,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 x64\Debug\qt\moc\moc_ceshi1218.cpp)
+  ceshi1218.vcxproj -> D:\0postgraduate\code\changping_code\ceshi1218\x64\Debug\ceshi1218.exe
